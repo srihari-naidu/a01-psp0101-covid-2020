@@ -26,7 +26,3 @@ Contributions to this project are welcome. If you find a bug or have an idea for
 ## Credits
 
 This game was created by me for the PSP0101 Problem Solving and Program Design assignment for Trimester 1, 2020/2021.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
