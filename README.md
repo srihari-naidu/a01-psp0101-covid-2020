@@ -1,6 +1,6 @@
 # Clash of Vocabulary Intellects & Dummies (C.O.V.I.D)
 
-This is a game created for the PSP0101 Problem Solving and Program Design assignment for Trimester 1, 2020/2021. The game is a simple English quote puzzle game that can be played by two players. The objective of the game is to guess the hidden quote by guessing letters or buying vowels. The game does not have a time limit and will only end when a player correctly solves the puzzle.
+This is a game created for the PSP0101 Problem Solving and Program Design assignment for Trimester 1, 2020/2021. The game is a simple English quote puzzle game that can be played by 3 players. The objective of the game is to guess the hidden quote by guessing letters or buying vowels. The game does not have a time limit and will only end when a player correctly solves the puzzle.
 
 ## Installation
 
